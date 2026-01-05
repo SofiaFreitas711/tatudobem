@@ -21,7 +21,7 @@
     <li>The Kanban method supported task organization and progress tracking.</li>
   </ul>
   <p>This methodology enabled ongoing refinement of the web application while maintaining a strong focus on usability and user experience.</p>
-  <h2>🧩 TECNOLOGIES</h2>
+  <h2>🧩 TECHNOLOGIES</h2>
   <p>This project was built using modern web technologies, including:</p>
   <ul>
     <li>HTML5</li>
